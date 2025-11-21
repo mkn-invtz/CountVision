@@ -1,4 +1,5 @@
 # VisionCount
+
 In this python project, we are going to build the Human Detection and Counting System through Webcam or you can give your own video or images. This is an intermediate level deep learning project on computer vision, which will help you to master the concepts and make you an expert in the field of Data Science. Let’s build an exciting project.
 
 
@@ -12,6 +13,8 @@ HOG is a feature descriptor used in computer vision and image processing for the
 
 
 Project Output
+
+
 Now, after running the human detection python project with multiple images and video, we will get:
 
 ![human-counting-output](https://github.com/user-attachments/assets/24b8a085-28b0-4025-a9b7-1af0125129da)
@@ -20,4 +23,6 @@ Now, after running the human detection python project with multiple images and v
 
 
 Summary
+
+
 In this deep learning project, we have learned how to create a people counter using HOG and OpenCV to generate an efficient people counter. We developed the project where you can supply the input as: video, image, or even live camera. This is an intermediate level project, which will surely help you in mastering python and deep learning libraries.
