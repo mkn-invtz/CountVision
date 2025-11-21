@@ -12,7 +12,7 @@ HOG is a feature descriptor used in computer vision and image processing for the
 
 
 
-#Project Output
+Project Output
 
 
 Now, after running the human detection python project with multiple images and video, we will get:
@@ -22,7 +22,7 @@ Now, after running the human detection python project with multiple images and v
 ![human-counting-output-2](https://github.com/user-attachments/assets/f7a658ac-e8ed-49e1-ac42-d3f9b21ba4c2)
 
 
-#Summary
+Summary
 
 
 In this deep learning project, we have learned how to create a people counter using HOG and OpenCV to generate an efficient people counter. We developed the project where you can supply the input as: video, image, or even live camera. This is an intermediate level project, which will surely help you in mastering python and deep learning libraries.
